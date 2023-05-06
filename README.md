@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 * Safety-critical Software
 * Security
 
+### 🛠️ Technical Skills:
+C, Python, Java, C++
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/ahmed-abdelfattah-8b061432/"><img align="left" src="https://raw.githubusercontent.com/aabdelfattah/aabdelfattah/main/images/linkedin.png" alt="Ahmed | LinkedIn" width="21px"/></a>
