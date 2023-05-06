@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * ~ 11 Years of Automotive Industry Experience 🚘
 * As a PM driving the delivery and integration of hundreds of infotainment components from thousands of devs into our in-house Linux-based infotainment platform in Mercedes-Benz.
 * As an Integrator configuring AUTOSAR components and delivering software into safety-critical components.
-* As an Embedded Software Engineer coding a hypervior for ARMv8R, and Bluetooth LE products.
+* As an Embedded Software Engineer writing code of a hypervisor for ARMv8R, and Bluetooth LE products.
 
 ### 📦 My Personal Projects ...
 * Pequity: A marketplace for small businesses in the middle east region built using a python [Rest API](https://github.com/Pequity-me/pequity-rest) and Android mobile [App](https://github.com/Pequity-me/PequityAndroid) 
