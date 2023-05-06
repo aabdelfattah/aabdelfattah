@@ -41,3 +41,9 @@ Here are some ideas to get you started:
 * ChatGPT
 * Safety-critical Software
 * Security
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/ahmed-abdelfattah-8b061432/"><img align="left" src="https://raw.githubusercontent.com/aabdelfattah/aabdelfattah/main/images/linkedin.png" alt="Ahmed | LinkedIn" width="21px"/></a>
+<a href="https://aabdelfattah.me/"><img align="left" src="https://raw.githubusercontent.com/aabdelfattah/aabdelfattah/main/images/wordpress-logo.png" alt="Ahmed | Personal Website" width="21px"/></a>
+<a href="a.abfattah@gmail.com"><img align="left" src="https://raw.githubusercontent.com/aabdelfattah/aabdelfattah/main/images/medium.svg" alt="Ahmed | Email" width="21px"/></a>
