@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### 🔭 My Coroporate Career Highlights ...
 * ~ 13 Years of Software Experience 
-* Built cool software (MBOS 1.0) for Mercedes-Benz cars 🚘
 
 ### 📦 My Personal Projects ...
+* The accountant: a vibe-coded accounting platform in typescript
 * Pequity: A marketplace for small businesses in the middle east region built using a python [Rest API](https://github.com/Pequity-me/pequity-rest) and Android mobile [App](https://github.com/Pequity-me/PequityAndroid) 
 * FinFun: An advanced financial portfolio management platform that combines traditional financial analysis with AI insights powered by FinRobot and Azure OpenAI. [FinFun](https://https://github.com/aabdelfattah/finfun)
 * [gtest-gpt](https://github.com/aabdelfattah/gtest-gpt): Generating unit tests with ChatGPT
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently learning more about ...
+* Claude and vibe coding
 * Embedded Linux and integration / release startegies of complex Linux distros
 * ChatGPT and LLMs
 
