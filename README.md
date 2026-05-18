@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 * ~ 13 Years of Software Experience 
 
 ### 📦 My Personal Projects ...
-* The accountant: a vibe-coded accounting platform in typescript
+* [The accountant](https://github.com/aabdelfattah/the-accountant): a vibe-coded accounting platform in typescript
 * Pequity: A marketplace for small businesses in the middle east region built using a python [Rest API](https://github.com/Pequity-me/pequity-rest) and Android mobile [App](https://github.com/Pequity-me/PequityAndroid) 
-* FinFun: An advanced financial portfolio management platform that combines traditional financial analysis with AI insights powered by FinRobot and Azure OpenAI. [FinFun](https://https://github.com/aabdelfattah/finfun)
-* [gtest-gpt](https://github.com/aabdelfattah/gtest-gpt): Generating unit tests with ChatGPT
+* [FinFun](https://https://github.com/aabdelfattah/finfun): An advanced financial portfolio management platform that combines traditional financial analysis with AI insights powered by FinRobot and Azure OpenAI. 
+* [des-g04](https://github.com/aabdelfattah/des-g04): A very fast implementation of the DES encryption algorithm
 * [OCRA](https://github.com/aabdelfattah/OCRA): OCR for Arabic cursive text using MATLAB
 * [al-haitham hardware](https://github.com/aabdelfattah/alhaitham-hardware): Gesture Recognition Based on ALTERA DE2-115 FPGA
 
 
 ### 🌱 I’m currently learning more about ...
-* Claude and vibe coding
 * Embedded Linux and integration / release startegies of complex Linux distros
-* ChatGPT and LLMs
+* Claude and vibe coding
+* AI and SLMs
 
 ### 👯 I’m looking to collaborate on open soruce projects in the following domains...
 * N/A
